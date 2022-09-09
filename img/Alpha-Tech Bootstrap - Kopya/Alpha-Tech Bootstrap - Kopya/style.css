@@ -1,0 +1,26 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css);
+
+.banner {
+  background-image: url(./img/pexels-pixabay-265152.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.circle {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.circle i {
+  position: relative;
+  top: 30px;
+}
